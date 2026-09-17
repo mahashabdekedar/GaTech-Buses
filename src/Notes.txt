@@ -1,0 +1,10 @@
+9/17/26:
+Requests return a list of dicts corresponding to different buses.
+29: Gold
+21: Blue
+28: Clough
+20: Red
+18: Emory
+26: Northside Dr. - Atlantic Station
+17: Green
+A request takes roughly 0.54 seconds at 4:14 pm on a Thursday

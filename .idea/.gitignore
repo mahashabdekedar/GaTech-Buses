@@ -10,3 +10,5 @@
 /httpRequests/
 # Virtual Environment
 /.venv/
+# Database
+/db/

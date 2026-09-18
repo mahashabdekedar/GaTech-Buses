@@ -9,3 +9,7 @@ class RouteID:
     CLOUGH: int = 28
     ATLANTIC: int = 26
     EMORY: int = 18
+
+@dataclass(frozen=True)
+class Constants:
+    url: str = "https://bus.gatech.edu/Services/JSONPRelay.svc/GetMapVehiclePoints?apiKey=8882812681&isPublicMap=true"
